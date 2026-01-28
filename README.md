@@ -117,11 +117,5 @@ This project helps in understanding:
 
 ---
 
-## 👨‍💻 Author
-
-**Parth Rathod**
-Low-Level C++ Projects
-
----
-
 ⭐ If you found this project helpful, don’t forget to star the repository!
+
